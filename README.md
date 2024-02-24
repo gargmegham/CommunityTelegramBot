@@ -37,10 +37,7 @@ Replace "YOUR_BOT_API_TOKEN", "YOUR_TELEGRAM_USER_ID", and "YOUR_TELEGRAM_CHAT_H
 
 ## Installation
 
-- Clone the repository:
-
 ```bash
-Copy code
 git clone https://github.com/gargmegham/CommunityTelegramBot.git
 cd CommunityTelegramBot
 pip install -r requirements.txt
